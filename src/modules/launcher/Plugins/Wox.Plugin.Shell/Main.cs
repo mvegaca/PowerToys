@@ -357,7 +357,7 @@ namespace Wox.Plugin.Shell
 
         public void UpdateSettings(PowerLauncherSettings settings)
         {
-            _settings.ReplaceWinR = settings.properties.override_win_r_key;
+            //_settings.ReplaceWinR = settings.properties.override_win_r_key;
         }
     }
 }
